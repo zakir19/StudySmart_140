@@ -53,17 +53,34 @@
 - https://drive.google.com/drive/folders/1GV6vR-0Ku8Uh_dNasmmXN5HbBYv4oPcm?usp=drive_link
 
 
-![Landing Page](res/drawable/landing page.jpg)
 
-![Add/Update Subject](res/drawable/landing page 1.jpg)
+### 1) Landing Page
+![Landing Page](res/drawable/landing%20page.jpg)
+The landing page is the initial screen of the app where users can navigate to add subjects, view tasks, and start study sessions.
 
+### 2) Add/Update Subject
+![Add/Update Subject](res/drawable/landing%20page%201.jpg)
+Here, users can add new subjects or update existing subjects to keep track of their study goals.
+
+### 3) Create Task
 ![Create Task](res/drawable/Create-of-task.jpg)
+This screen allows users to create study tasks for each subject, setting time limits and task descriptions.
 
+### 4) Add Task
 ![Add Task](res/drawable/Add-Task.jpg)
+This section enables users to add specific tasks for their study sessions, ensuring they stay organized.
 
+### 5) Completion of Task
 ![Completion of Task](res/drawable/Completion-of-task.jpg)
+Once a task is completed, users can view their progress and mark the task as finished.
 
+### 6) Delete Subject
 ![Delete Subject](res/drawable/Delete-subject.jpg)
+Users can remove subjects they no longer want to track, keeping their study plans organized.
 
-![Study Session Timer](res/drawable/Delete-subject.jpg)
+### 7) Study Session Timer
+![Study Session Timer](res/drawable/Study-session-timer.jpg)
+The study session timer helps users manage their study sessions, ensuring they stay focused within a set period.
+
+---
 
