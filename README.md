@@ -35,4 +35,5 @@
 5. **View Task Completion**:
     - Once your task is completed, you can mark it as done or remove it from the list.
 
-[StudySmart_140_video.mp4](..%2F..%2F..%2FDownloads%2FStudySmart_140_video.mp4)
+- I have attach the drive link in that the video is shown how the app is work. 
+- https://drive.google.com/drive/folders/1GV6vR-0Ku8Uh_dNasmmXN5HbBYv4oPcm?usp=drive_link
