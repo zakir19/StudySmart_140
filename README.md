@@ -52,3 +52,5 @@
 - I have attach the drive link in that the video is shown how the app is work. 
 - https://drive.google.com/drive/folders/1GV6vR-0Ku8Uh_dNasmmXN5HbBYv4oPcm?usp=drive_link
 
+![Landing Page](https://github.com/zakir19/StudySmart/raw/main/res/drawable/landing%20page.jpg)
+
