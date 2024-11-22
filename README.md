@@ -52,6 +52,9 @@
 - I have attach the drive link in that the video And Images also is shown how the app is work. 
 - https://drive.google.com/drive/folders/1GV6vR-0Ku8Uh_dNasmmXN5HbBYv4oPcm?usp=drive_link
 
+- ![Screenshot 2024-11-22 212042](https://github.com/zakir19/StudySmart_140/raw/8c8f528c2aeb1e19b1aab8e7d2db79491eb41086/Screenshot%202024-11-22%20212042.png)
+
+
   
 
 
