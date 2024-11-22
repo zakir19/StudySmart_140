@@ -16,6 +16,20 @@
 - **Android Services**: To run tasks like study timers in the background.
 - **Kotlin**: The primary language used for the app.
 
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/zakir19/StudySmart_140.git
+    ```
+
+2. Open the project in **Android Studio**.
+
+3. Sync the Gradle files and build the project.
+
+4. Run the app on an emulator or real device.
+
 ## How to Use
 
 1. **Set Study Hours**:
@@ -37,3 +51,19 @@
 
 - I have attach the drive link in that the video is shown how the app is work. 
 - https://drive.google.com/drive/folders/1GV6vR-0Ku8Uh_dNasmmXN5HbBYv4oPcm?usp=drive_link
+
+
+![Landing Page](res/drawable/landing page.jpg)
+
+![Add/Update Subject](res/drawable/landing page 1.jpg)
+
+![Create Task](res/drawable/Create-of-task.jpg)
+
+![Add Task](res/drawable/Add-Task.jpg)
+
+![Completion of Task](res/drawable/Completion-of-task.jpg)
+
+![Delete Subject](res/drawable/Delete-subject.jpg)
+
+![Study Session Timer](res/drawable/Delete-subject.jpg)
+
